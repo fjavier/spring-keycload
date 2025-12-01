@@ -1,1 +1,3 @@
 /.idea/
+/custom-logging-spi/.mvn/
+/custom-logging-spi/target/
